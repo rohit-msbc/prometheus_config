@@ -1,0 +1,6 @@
+- targets: ["15.206.69.68:9323"]
+  labels:
+    region: "IN"
+    team: "docker"
+    env: "dev"
+
